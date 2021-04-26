@@ -55,7 +55,7 @@ the various navigation paths and states within an Ajax application.</description
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>1.4</version>
+			<version>2.7</version>
 		</dependency>
 
 		<dependency>
